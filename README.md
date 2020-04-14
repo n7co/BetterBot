@@ -1,0 +1,2 @@
+# BetterBot
+A discord bot
